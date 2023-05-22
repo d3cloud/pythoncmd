@@ -1,4 +1,3 @@
-# pythoncmd
 # UserCmdExecutor 🚀
 
 UserCmdExecutor is a Python program that allows users to execute custom commands through the command-line interface. It provides a simple and interactive way to interact with the system using personalized commands.
